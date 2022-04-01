@@ -9,4 +9,4 @@
 <p>- Os eventos conforme vão acontecendo, estados vão sendo definidos, esses estados tocam e pausam o audio</p>
 
 <h2>Pré-requitos</h2>
-<p>- Não tem pré-requisitos basta clonar o projeto na sua máquina e abrir no seu navegado ou pode abri usando este <a href="https://r0m3u.github.io/SimpleDrumKit/">Simple Drum Kit</a></p>
+<p>- Não tem pré-requisitos basta clonar o projeto na sua máquina e abrir no seu navegado ou pode abri usando este <a href="https://r0m3u.github.io/SimpleDrumKit;">Simple Drum Kit</a></p>
